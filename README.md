@@ -29,7 +29,7 @@
 
 ## 🎯 Overview
 
-This repository contains two major homework assignments for the CSE222/BIL505 Data Structures and Algorithms course:
+This repository contains two major homework assignments for the CSE232 Data Structures and Algorithms course:
 
 - **Homework #1**: Object-oriented hardware system management with device abstraction
 - **Homework #7-8**: Advanced graph algorithms and sorting algorithm implementations
@@ -91,7 +91,7 @@ dataHws/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dataHws.git
+git clone https://github.com/Alperen012/dataHws.git
 cd dataHws
 
 # Build and run HW #1
