@@ -3,8 +3,6 @@
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 *A comprehensive collection of CSE222/BIL505 course homework assignments focusing on data structures, algorithms, and object-oriented programming concepts.*
 
@@ -26,7 +24,6 @@
 - [🧪 Testing](#-testing)
 - [📊 Performance Analysis](#-performance-analysis)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ---
 
@@ -375,12 +372,6 @@ We welcome contributions! Please follow these guidelines:
 - Include comprehensive JavaDoc comments
 - Maintain consistent indentation (4 spaces)
 - Add unit tests for new functionality
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
