@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-*A comprehensive collection of CSE222/BIL505 course homework assignments focusing on data structures, algorithms, and object-oriented programming concepts.*
+*A comprehensive collection of CSE232 course homework assignments focusing on data structures, algorithms, and object-oriented programming concepts.*
 
 </div>
 
