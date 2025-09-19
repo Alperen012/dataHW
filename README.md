@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-*A comprehensive collection of CSE232 course homework assignments focusing on data structures, algorithms, and object-oriented programming concepts.*
+*A comprehensive collection of CSE222 course homework assignments focusing on data structures, algorithms, and object-oriented programming concepts.*
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ## 🎯 Overview
 
-This repository contains two major homework assignments for the CSE232 Data Structures and Algorithms course:
+This repository contains two major homework assignments for the CSE222 Data Structures and Algorithms course:
 
 - **Homework #1**: Object-oriented hardware system management with device abstraction
 - **Homework #7-8**: Advanced graph algorithms and sorting algorithm implementations
@@ -378,7 +378,7 @@ We welcome contributions! Please follow these guidelines:
 ## 🙋‍♂️ Support & Contact
 
 - **Course**: CSE222/BIL505 Data Structures and Algorithms
-- **Issues**: Please use the [GitHub Issues](https://github.com/yourusername/dataHws/issues) page
+- **Issues**: Please use the [GitHub Issues](https://github.com/Alperen012/dataHws/issues) page
 - **Documentation**: Full JavaDoc available in `hw_7_8/docs/`
 
 ---
